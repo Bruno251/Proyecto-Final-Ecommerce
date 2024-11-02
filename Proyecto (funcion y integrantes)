@@ -5,3 +5,4 @@ Mail: castrobruno888@gmail.com
 Rol:Todos los roles(realice el trabajo de manera individual)
 Para iniciar el trebajo tienen que colocar el comando (npm run dev), ya que utilize vite y react para el proyecto.
 Link del repositorio: https://github.com/Bruno251/Proyecto-Final-Ecommerce.git
+Funcion del Proyecto: podemos ver la informacion de los productos al hacer click en la foto o titulo, podemos usar la barra de busqueda, pueden acceder al carro de compras y agregar o eliminar productos.
